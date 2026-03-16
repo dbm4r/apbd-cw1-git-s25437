@@ -6,6 +6,10 @@ public class StatisticsHelper
     {
         return values.Average();
     }
+    public static int CalculateMin(int[] values)
+    {
+    return values.Min();
+    }
 
     public static int CalculateMax(int[] values)
     {
