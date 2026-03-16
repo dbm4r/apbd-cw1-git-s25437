@@ -6,6 +6,7 @@ public class StatisticsHelper
     {
         return values.Average();
     }
+    // Returns the minimum value in the array
     public static int CalculateMin(int[] values)
     {
     return values.Min();
