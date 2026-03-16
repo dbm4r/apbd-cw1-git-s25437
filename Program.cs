@@ -1,4 +1,4 @@
-Console.WriteLine("Enter numbers separated by space:");
+Console.WriteLine("Enter your S number:");
 string input = Console.ReadLine();
 if (string.IsNullOrEmpty(input))
 {
